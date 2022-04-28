@@ -7,4 +7,3 @@ plotly
 numpy
 scipy
 sklearn
-pickle
