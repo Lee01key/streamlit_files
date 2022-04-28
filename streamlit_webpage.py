@@ -111,7 +111,7 @@ elif page == 'YODA':
     from chatterbot.trainers import ListTrainer, ChatterBotCorpusTrainer
 
     import os
-    
+    nlp = spacy.load("en_core_web_sm")
     yoda = ChatBot('yoda')
 
     yoda = ChatBot(
