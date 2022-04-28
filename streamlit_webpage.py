@@ -114,6 +114,7 @@ elif page == 'YODA':
     import spacy
     
     nlp = spacy.load("en_core_web_sm")
+    
     yoda = ChatBot('yoda')
 
     yoda = ChatBot(
