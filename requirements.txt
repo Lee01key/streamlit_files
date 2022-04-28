@@ -2,13 +2,10 @@ matplotlib
 pandas
 streamlit
 chatterbot
-chatterbot.logic
-chatterbot.trainers
 spacy
 plotly
 numpy
 scipy
 sklearn
-sklearn.metrics.pairwise
 
 
